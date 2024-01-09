@@ -4,8 +4,11 @@ generate Denaro vanity addresses securely
 # setup:
 
 pip install mnemmonic
+
 pip install fastecdsa
+
 pip install base58
+
 pip install bitcoinlib
 
 make sure to change the variable "if address.startswith" to the target prefix , at 4 digits it takes too long to find an address. i will be trying to implement gpu to get a bit more flexibility
