@@ -1,5 +1,5 @@
 # Denaro-Vanity-Gen
-generate Denaro vanity addresses securely
+generate Denaro vanity addresses securely. Github repo for the Denaro cryptocurrency: https://github.com/denaro-coin/denaro
 
 # setup:
 
